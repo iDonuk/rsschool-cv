@@ -18,3 +18,12 @@
     - [Alchemy University](university.alchemy.com)
      - [Metanit abstracts](metanit.com)
      - [UX/UI professional course](https://yan.ageenko.pro/school.html?yclid=3668184038609590748)
+
+## Skills and abilities
+* HTML5
+* CSS
+* JavaScript (at the beginnig)
+* Git
+* English A2 (EPAM testing), Polish A1, Russian and Belarussian native languages
+* UX/UI and graphic design
+* Figma
