@@ -27,3 +27,11 @@
 * English A2 (EPAM testing), Polish A1, Russian and Belarussian native languages
 * UX/UI and graphic design
 * Figma
+
+## Experience
+I have learned \*three whales* of git. Here they are:
+```
+* git add .
+* git commit -m '<...>'
+* git push
+```
