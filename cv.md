@@ -10,3 +10,11 @@
 * **Telegram**: @iDonu
 * **Discord**: iDonu
 * **Instagram**: donu_k
+
+## Education
+* University: Belarusian State Medical University, *Pharmaceutical faculty*
+* Some courses like:
+   - [Learn Javascript](learn.javascript.ru)
+    - [Alchemy University](university.alchemy.com)
+     - [Metanit abstracts](metanit.com)
+     - [UX/UI professional course](https://yan.ageenko.pro/school.html?yclid=3668184038609590748)
