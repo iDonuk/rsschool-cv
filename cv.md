@@ -35,3 +35,11 @@ I have learned \*three whales* of git. Here they are:
 * git commit -m '<...>'
 * git push
 ```
+
+## Code Example
+I haven't put my hand to [Codewars](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript) yet and haven't solved serious tasks, but I have already known that every function in JavaScript should return a value
+```
+function multiply(a, b){
+  return a * b
+}
+```
