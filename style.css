@@ -1,5 +1,17 @@
 .header {
-	top:20px;
+	width: 100%;
+	height:95px;
+	background: url(./assets/img/rs-logo.png) no-repeat 90%;
+	background-size: 250px;
+	padding:0;
+	margin:0;
+}
+
+.title {
+	font-size: 32px;
+	padding-top: 20px;
+	padding-left: 25px;
+	text-align: left;
 }
 
 .main {
