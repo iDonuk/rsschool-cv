@@ -5,6 +5,7 @@
 	background-size: 250px;
 	padding:0;
 	margin:0;
+	<!-- position: fixed;>
 }
 
 .title {
@@ -21,18 +22,19 @@
 	left: 5px;
 }
 
+.quote {
+	font-size: 16px;
+	color: gray;
+	background-color: beige;
+	display: inline;
+	margin-top: 15px;
+}
+
+.photo {
+	float: left;
+	padding-left: 35px;
+}
+
 .main {
 	padding-top:100px;
-}
-
-.posLeft {
-	margin-left:-66%;
-}
-
-.posCenter {
-	margin-left:33%;
-}
-
-.list .listItem {
-    color: orchid;
 }
