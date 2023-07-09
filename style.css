@@ -9,6 +9,7 @@
 }
 
 .title {
+	font-weight: bold;
 	font-size: 32px;
 	padding-top: 150px;
 	padding-left: 35px;
@@ -36,7 +37,7 @@
 	width: 450px;
 }
 
-.contacts {
+.heading {
 	padding-left: 35px;
 }
 
@@ -48,6 +49,16 @@
 }
 
 .contacts-list {
+	font-size: 20px;
+	line-height: 1.8;
+}
+
+.education-list {
+	font-size: 20px;
+	line-height: 1.8;
+}
+
+.skills-list {
 	font-size: 20px;
 	line-height: 1.8;
 }
