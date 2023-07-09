@@ -8,6 +8,12 @@
 	<!-- position: fixed;>
 }
 
+.body {
+	position: relative;
+	margin: 0;
+	min-height: 100%;
+}
+
 .title {
 	font-weight: bold;
 	font-size: 32px;
@@ -71,4 +77,37 @@
 .experience {
 	font-size: 20px;
 	padding-left: 35px;
+}
+
+.footer {
+	height: 50px;
+  	background: #829985;
+	font-size: 12px;
+	padding-left: 35px;
+	padding-top: 1px;
+	margin: 0 auto;
+	min-width: 1440px;
+}
+
+html {
+	height: 100%;
+	scroll-behavior: smooth; 
+  }
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #200b0b;
+}
+
+.link {
+  text-decoration: none;
+  color: #829985;
+  transition: color 0.5s;
+}
+
+.link:hover {
+  color: #5d7260;
 }
