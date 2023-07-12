@@ -1,0 +1,122 @@
+.header {
+	width: 100%;
+	height:95px;
+	background: url(./assets/img/rs-logo.png) no-repeat 90%;
+	background-size: 250px;
+	padding:0;
+	margin:0;
+}
+
+.nav-link {
+	font-size: 20px;
+	text-decoration: none;
+  	color: #829985;
+  	transition: color 0.5s;
+	text-decoration: none;
+}
+
+.body {
+	position: relative;
+	margin: 0;
+	min-height: 100%;
+}
+
+.title {
+	font-weight: bold;
+	font-size: 32px;
+	padding-top: 150px;
+	padding-left: 35px;
+	text-align: left;
+}
+
+.nav-list {
+	list-style: none;
+	position: absolute;
+	top: 20px;
+	left: 5px;
+}
+
+.nav-item {
+	font-size: 20px;
+	line-height: 1.8;
+}
+
+.quote {
+	font-size: 16px;
+	color: #829985;
+	display: inline;
+	margin-top: 15px;
+}
+
+.photo {
+	padding-left: 35px;
+	height: 300px;
+	width: 450px;
+}
+
+.heading {
+	padding-left: 35px;
+}
+
+.line {
+	border: none;
+	height: 3px; 
+	background-color: #000000;
+	margin-left: 35px;
+}
+
+.contacts-list {
+	font-size: 20px;
+	line-height: 1.8;
+}
+
+.education-list {
+	font-size: 20px;
+	line-height: 1.8;
+}
+
+.skills-list {
+	font-size: 20px;
+	line-height: 1.8;
+}
+
+.experience {
+	font-size: 20px;
+	padding-left: 35px;
+}
+
+.footer {
+	height: 70px;
+  	background: #829985;
+	font-size: 20px;
+	margin: 5px 50px;
+	max-width: 1440px;
+}
+
+html {
+	height: 100%;
+	scroll-behavior: smooth; 
+  }
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #200b0b;
+}
+
+.link {
+  text-decoration: none;
+  color: #829985;
+  transition: color 0.5s;
+}
+
+.link:hover {
+  color: #5d7260;
+}
+
+.rs-logo {
+	float: right;
+	padding-bottom: 20px;
+}
