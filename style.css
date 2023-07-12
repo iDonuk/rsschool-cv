@@ -86,13 +86,11 @@
 }
 
 .footer {
-	height: 50px;
+	height: 70px;
   	background: #829985;
-	font-size: 12px;
-	padding-left: 35px;
-	padding-top: 1px;
-	margin: 0 auto;
-	min-width: 1440px;
+	font-size: 20px;
+	margin: 5px 50px;
+	max-width: 1440px;
 }
 
 html {
@@ -116,4 +114,9 @@ body {
 
 .link:hover {
   color: #5d7260;
+}
+
+.rs-logo {
+	float: right;
+	padding-bottom: 20px;
 }
